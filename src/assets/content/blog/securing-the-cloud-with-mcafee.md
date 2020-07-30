@@ -1,12 +1,10 @@
 ---
 title: Securing the cloud with McAfee
 date: 2019-08-16T00:00:00-07:00
-hero_image: "/src/assets/content/images/be-your-mcafee-epo-developer-and-administrator.png"
+hero_image: "/src/assets/content/images/img_8157.jpg"
 
 ---
 I spent a summer as a product management intern on the [MVISION Cloud](https://www.mcafee.com/enterprise/en-us/products/mvision-cloud.html) team, which builds tools to provide data security for the cloud era.
-
-![](/src/assets/content/images/img_8157.jpg)
 
 Highlights include:
 
