@@ -12,7 +12,5 @@ fields:
   name: hero_image
   label: hero_image
 pages:
-- src/assets/content/blog/an-essay-on-walking.md
 - src/assets/content/blog/navigating-with-samsara.md
-- src/assets/content/blog/on-the-geneology-of-morals.md
 - src/assets/content/blog/song-of-myself.md
