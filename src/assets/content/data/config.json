@@ -1,12 +1,11 @@
 {
-    "title": "Brevifolia",
-    "description": "Starter blog using Forestry CMS with Gridsome.",
-    "contact": {
-      "email": "info@forestry.io",
-      "twitter_handle": "forestryio",
-      "github_handle": "forestryio"
-    },
-    "primary_color": "#ACCAC5",
-    "repository_url": "https://github.com/kendallstrautman/starter-blog-gridsome"
-  }
-  
+  "title": "Ivy Nguyen",
+  "description": "I'm Ivy, a product manager and designer building community tools at Commsor. I graduated from the University of California, Berkeley with a degree in Computer Science.",
+  "contact": {
+    "email": "i@ivyn.co",
+    "twitter_handle": "ivycide",
+    "github_handle": "ivyn"
+  },
+  "primary_color": "#ACCAC5",
+  "repository_url": "https://github.com/kendallstrautman/starter-blog-gridsome"
+}
