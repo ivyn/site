@@ -1,11 +1,12 @@
 {
-  "description": "<p>This blog was created using <a href=\"https://forestry.io/\" title=\"Forestry Link\">Forestry</a> &amp; <a href=\"https://gridsome.org/\" title=\"Gatsby Link\">Gridsome</a></p>",
-  "cta": "<p>To get started, import this site into Forestry or checkout the repository <a href=\"https://github.com/kendallstrautman/starter-blog-gatsby\" title=\"Repo Url\">here</a>.</p>",
+  "description": "<p><img src=\"/src/assets/content/images/3.jpg\"></p><p>I'm Ivy, a product manager and designer building community tools at <a href=\"https://www.commsor.com/\" title=\"\">Commsor</a>. I graduated from the <a href=\"http://berkeley.edu/\">University of California, Berkeley</a> with a degree in Computer Science.</p>",
+  "cta": "<p>I find it important to take pictures of people, cities, and things around me. You can check out my intentional work in the form of my book <em>SALT</em>, or take a look at the in-between moments <a href=\"https://www.instagram.com/ivyhn/\" title=\"\">here</a>.</p>",
   "contact": {
-    "email": "info@forestry.io",
-    "twitter_handle": "forestryio",
-    "github_handle": "forestryio"
+    "email": "i@ivyn.co",
+    "twitter_handle": "",
+    "github_handle": "",
+    "instagram_handle": ""
   },
-  "background_color": "#B1BCBC",
+  "background_color": "#0E7B6C",
   "text_color": "#ebebeb"
 }
