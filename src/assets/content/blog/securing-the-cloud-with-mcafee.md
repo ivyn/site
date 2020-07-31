@@ -8,6 +8,7 @@ I spent a summer as a product management intern on the [MVISION Cloud](https://w
 
 Highlights include:
 
-* A policy evaluator that helps businesses make writing and testing cloud access security policies more efficient
+* Writing Product Requirement Documents
+* Launching policy evaluator that helps businesses make writing and testing cloud access security policies more efficient
 * Introducing user research practices to my team
 * Learning TypeScript and AngularJS
