@@ -12,5 +12,3 @@ Highlights include:
 * Launching policy evaluator that helps businesses make writing and testing cloud access security policies more efficient
 * Introducing user research practices to my team
 * Learning TypeScript and AngularJS
-
-![](/src/assets/content/images/samsara1.png)![](/src/assets/content/images/samsara2.png)![](/src/assets/content/images/samsara3.png)
