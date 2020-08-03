@@ -1,7 +1,7 @@
 ---
 title: Navigating with Samsara
 author: Ivy Nguyen
-date: 2020-02-11T00:00:00.000-08:00
+date: 2020-05-05T00:00:00-07:00
 hero_image: "/src/assets/content/images/img_8143.jpg"
 
 ---
