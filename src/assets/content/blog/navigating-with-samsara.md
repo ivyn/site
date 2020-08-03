@@ -14,4 +14,4 @@ Highlights include:
 * Interviewing truck drivers
 * User research workshops and design critiques from the Routes team
 
-![](/src/assets/content/images/samsara1.png)![](/src/assets/content/images/samsara2.png)![](/src/assets/content/images/samsara3.png)![](/src/assets/content/images/samsara4.png)
+![](/src/assets/content/images/samsara1.png)![](/src/assets/content/images/samsara2.png)![](/src/assets/content/images/samsara3.png)![](/src/assets/content/images/samsara4.png) 
