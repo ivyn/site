@@ -13,3 +13,5 @@ Highlights include:
 * Integration with U.S. work hour regulation systems
 * Interviewing truck drivers
 * User research workshops and design critiques from the Routes team
+
+![](/src/assets/content/images/samsara1.png)![](/src/assets/content/images/samsara2.png)![](/src/assets/content/images/samsara3.png)
