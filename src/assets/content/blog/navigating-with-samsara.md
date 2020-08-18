@@ -2,7 +2,7 @@
 title: Navigating with Samsara
 author: Ivy Nguyen
 date: 2020-05-05T00:00:00-07:00
-hero_image: "/src/assets/content/images/img_8143.jpg"
+hero_image: "/src/assets/content/images/samsara-1.jpg"
 
 ---
 As a product design consultant, I worked with the Routes team to help long-haul truck drivers stay on track and take care of themselves on the road.
