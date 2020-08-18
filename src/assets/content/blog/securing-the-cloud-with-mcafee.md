@@ -1,7 +1,7 @@
 ---
 title: Securing the cloud with McAfee
 date: 2019-08-16T00:00:00-07:00
-hero_image: "/src/assets/content/images/img_8157.jpg"
+hero_image: "/src/assets/content/images/mcafee.jpg"
 
 ---
 I spent a summer as a product management intern on the [MVISION Cloud](https://www.mcafee.com/enterprise/en-us/products/mvision-cloud.html) team, which builds tools to provide data security for the cloud era.
