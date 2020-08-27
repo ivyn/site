@@ -1,6 +1,6 @@
 ---
 title: I developed film at home
-date: 2020-06-01T00:00:00-07:00
+date: 2020-04-05T00:00:00-07:00
 hero_image: "/src/assets/content/images/developing-film.png"
 
 ---
