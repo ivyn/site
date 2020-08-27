@@ -12,5 +12,6 @@ fields:
   name: hero_image
   label: hero_image
 pages:
+- src/assets/content/blog/building-community-tools-with-commsor.md
 - src/assets/content/blog/navigating-with-samsara.md
 - src/assets/content/blog/securing-the-cloud-with-mcafee.md
