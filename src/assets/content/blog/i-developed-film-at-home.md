@@ -12,7 +12,7 @@ There's a reason why film is so interesting, and it's that there are so many var
 
 The negatives were underdeveloped, which resulted in many lost shots but also an interesting sheen in some of the salvageable shots. There's also an obscene amount of grain, but I'm happy with what I learned and the photos I got from this experiment.
 
-Next time, I need to practice loading film into reels and getting development timings right. 
+Next time, I need to practice loading film into reels and getting development timings right.
 
 ![](/src/assets/content/images/img20200405_20590151.jpg)
 
