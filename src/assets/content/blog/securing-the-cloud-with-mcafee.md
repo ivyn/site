@@ -12,3 +12,7 @@ Highlights include:
 * Launching policy evaluator that helps businesses make writing and testing cloud access security policies more efficient
 * Introducing user research practices to my team
 * Learning TypeScript and AngularJS
+
+![](/src/assets/content/images/policy-evluation-flow.png)
+
+The MVISION Cloud product protects businesses by checking all files that are uploaded to and downloaded from the cloud. Instead of having to fully implement policies and waiting to see if the correct content is flagged, users can now use the Policy Evaluation feature to test and tweak the policy rules before implementing.![](/src/assets/content/images/policy-listing.png)![](/src/assets/content/images/evaluation-running.png)
