@@ -5,11 +5,7 @@ date: 2020-05-05T00:00:00.000-07:00
 hero_image: "/src/assets/content/images/samsara.png"
 
 ---
-* Company: Samsara
-* Role: Contracted product designer through Berkeley Innovation. Mainly contributed in user research, UI/UX design, and prototyping the navigation system.
-* Timeline: February - May 2020
-
-My team partnered with Samsara to go through a conceptual end-to-end product development project. 
+My team partnered with Samsara to go through a conceptual end-to-end product development project. We were contracted product designers through Berkeley Innovation from February - May 2020. I contributed to the user research, UI/UX design, and prototyping the navigation system.
 
 **Research & Synthesis**
 
