@@ -13,13 +13,6 @@
                 </li>
                 <li>
                     <p>
-                        <a :href="`https://twitter.com/${data.contact.twitter_handle}`">
-                            Twitter: @{{ data.contact.twitter_handle}}
-                        </a>
-                    </p>
-                </li>
-                <li>
-                    <p>
                         <a :href="`https://github.com/${data.contact.github_handle}`">
                             Github: {{ data.contact.github_handle }}
                         </a>
